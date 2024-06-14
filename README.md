@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with video editing.
 - 😍 I love Wikis. I like MediaWiki. I want to build more of them.
 - 💬 Ask me about starting a career in IT. I am happy to mentor you and get you going on the right direction.
-- 📫 You can reach me: [pete@hepaestus.com](mailto:pete@hepaestus.com)
+- 📫 You can reach me [here](https://hepaestus.com/contact)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to be a chemist.
