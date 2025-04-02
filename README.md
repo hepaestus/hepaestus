@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with Flutter, JHipster, Angular, Typescript, Javascript, Python, Jekyll, HTML, CSS, Java, MySQL, C, G-Code, and of course, Bash.
-- 👨‍🔬 I'm the CTO of [Jem Social](https://jem.social)
 - 🌱 I’m currently learning: DevSecOps, how to build custom keyboards, and control 3d-printers.
 - 👯 I’m looking to collaborate on almost any cool disruptive app or project. I have some ideas too, but I need help.
 - 🤔 I’m looking for help with video editing.
