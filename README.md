@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Flutter, JHipster, Angular, Typescript, Javascript, Python, Jekyll, HTML, CSS, Java, MySQL, C, G-Code, and of course, Bash.
+- 🔭 I’m currently working with: Linux, Bash, Jekyll, JHipster, Pyhton, Javascript, HTML, CSS, MySQL, PHP, C, and GCode
 - 🌱 I’m currently learning: DevSecOps, how to build custom keyboards, and control 3d-printers.
 - 👯 I’m looking to collaborate on almost any cool disruptive app or project. I have some ideas too, but I need help.
 - 😍 I love Wikis. I like MediaWiki. I want to build more of them.
